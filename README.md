@@ -1,7 +1,7 @@
 # Building Java Projects with Gradle
 
 ##### This guide walks you through using Gradle to build a simple Java project.
-
+fdfd
 ### What you’ll need
 + A favorite text editor or IDE
 + JDK 6 or later
