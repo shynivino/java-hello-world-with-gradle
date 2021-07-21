@@ -3,7 +3,7 @@
 ##### This guide walks you through using Gradle to build a simple Java project.
 
 ### What you’ll need
-+ A favorite text editor or IDE
++ A favorite text editor or IDEsds
 + JDK 6 or later
 + Install Gradle
 
