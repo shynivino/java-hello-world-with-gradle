@@ -1,6 +1,6 @@
 # Building Java Projects with Gradle
 
-##### This guide walks you through using Gradle to build a simple Java project.
+##### This guide walks you through using Gradle to build a simple Java project.dfd
 xcx
 ### What you’ll need
 + A favorite text editor or IDEsds
